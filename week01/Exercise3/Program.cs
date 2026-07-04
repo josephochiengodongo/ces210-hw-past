@@ -8,7 +8,7 @@ class Program
         Console.WriteLine("Hello World! This is the Exercise3 Project.");
 
         //First core (no loop)
-       
+       //Console.Write("What is the magic number?  ");
        //int magicNumber = int.Parse(Console.ReadLine());
 
         //Console.Write("What is your guess?    ");
