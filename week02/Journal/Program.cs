@@ -1,5 +1,5 @@
 //Creativity additions:
-// 1 Seven more additions prompts beyond five reqired added (in PromptGenerator.cs).
+// 1 Seven more additions prompts beyond five required added (in PromptGenerator.cs).
 // 2 To handle error in file,I have added- if (!File.Exists(filename))
     //{
     //  Console.WriteLine("file not found")
