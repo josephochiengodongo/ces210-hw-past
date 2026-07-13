@@ -18,7 +18,7 @@ class Program
         Console.WriteLine(f2.GetDecimalValue());
 
 
-        //Using construtor 3
+        //Using constructor 3
         Fraction f3 = new Fraction(3,4);
         Console.WriteLine(f3.GetFractionString());
         Console.WriteLine(f3.GetDecimalValue());
